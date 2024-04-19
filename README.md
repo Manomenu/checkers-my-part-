@@ -10,7 +10,6 @@ Overview
 This is only my part in checkers project for Introduction to Artificial Inteliigence:  
 https://github.com/Mateusz0507/checkers (probably private)  
 Description below corresponds to full, finished project from the upper link.  
-  
 You can play checkers player vs player, player vs AI or AI vs AI.  
 An algorithm that stands behind AI reasoning is min-max with our own heuristics specified  
 in checkers-logic/Heuristics folder.
